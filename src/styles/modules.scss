@@ -1,0 +1,20 @@
+#root{
+  &> * {
+    background-color:#ff518b;
+    border: 5px dashed  #00e4d8;
+    border-radius: 10px;
+    text-align: center;
+  }
+}
+
+span, a{
+  display: inline-block;
+  background: black;
+  padding: 10px;
+  border-radius: 50%;
+  width: 17vw;
+  height: 19vw;
+  margin: 15vw 2vw;
+  font-size: 12vw;
+
+}
